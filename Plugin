@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Compaq/Desktop/onlyjoser/onlyPlugins/- API/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Compaq/Downloads/ActionBarAPI-1.5.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>onlyEntrarBonus</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>
+
+# OnlyClub -> https://discord.gg/uRSmVSKEHk (Novo)
+
+logar_especial: "&aO {player} entrou no servidor."
+logar_especial_actionbar: "&aO {player} entrou no servidor"
+# A mensagem s� ir� aparecer quando aqueles que tem a permiss�o (onlyentrarbonus_avisar) logar
+
+primeiro_login: "&e&lBEM-VINDO!! &eO {player} logou pela primeira vez."
+primeiro_login_actionbar: "&eO{player} logou pela primeira vez."
+
+# OnlyClub -> https://discord.gg/uRSmVSKEHk (Novo)
+name: onlyEntrarBonus
+main: me.onlyjoser.onlytemplate.Main
+version: 1.0
+commands:
