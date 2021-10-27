@@ -11,5 +11,8 @@ Para aparecer uma mensagem quando alguém especial logar, a pessoa precisa ter a
   Exemplos -> Joaozinho entrou pela primeira vez no servidor.
               Joaozinho (com a permissao) logou no servidor
               
+# Demostração
+...
+
 # Avisos:
 Versão atual: 1.1
