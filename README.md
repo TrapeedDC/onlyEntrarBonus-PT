@@ -6,6 +6,7 @@ English version -> [download](https://www.mediafire.com/file/k0r3o6bat8m9bbe/%25
 
 # Como usar?
 Para aparecer mensagem no primeiro login, a pessoa só precisa logar pela primeira vez.
+
 Para aparecer uma mensagem quando alguém especial logar, a pessoa precisa ter a permissão [onlyentrarbonus_avisar]
   Exemplos -> Joaozinho entrou pela primeira vez no servidor.
               Joaozinho (com a permissao) logou no servidor
