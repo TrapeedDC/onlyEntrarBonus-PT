@@ -1,5 +1,6 @@
 # onlyEntrarBonus-PT
 O plugin envia uma mensagem quando alguém se loga no servidor pela primeira vez, e quando alguém "especial" (vip ou staff) se loga.
+Para você abaixar o plugin, você pode clicar [aqui](https://www.mediafire.com/file/ehkwldxazgd68im/%255Bv1.1%255D_onlyEntrarBonus.zip/file)
 
 # Como usar?
 Para aparecer mensagem no primeiro login, a pessoa só precisa logar pela primeira vez.
