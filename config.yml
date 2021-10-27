@@ -1,0 +1,10 @@
+# OnlyClub -> https://discord.gg/uRSmVSKEHk (Novo)
+
+logar_especial: "&aO {player} entrou no servidor."
+logar_especial_actionbar: "&aO {player} entrou no servidor"
+# A mensagem só irá aparecer quando aqueles que tem a permissão (onlyentrarbonus_avisar) logar
+
+primeiro_login: "&e&lBEM-VINDO!! &eO {player} logou pela primeira vez."
+primeiro_login_actionbar: "&eO{player} logou pela primeira vez."
+
+# OnlyClub -> https://discord.gg/uRSmVSKEHk (Novo)
